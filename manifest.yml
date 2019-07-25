@@ -1,0 +1,5 @@
+---
+applications:
+- name: equity-sos-app
+  random-route: true
+  memory: 256M
